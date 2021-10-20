@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Arya Maulana](https://github.com/aryajh451/)
+- Place: Bandung, Jawa Barat, Indonesia
+- Bio: Web Develover
+- GitHub: [Arya Maulana](https://github.com/aryajh451/)
